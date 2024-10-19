@@ -30,14 +30,4 @@ To run the project locally:
 - **CSS3** for styling
 - **JavaScript** for handling the timer functionality
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
-**Created by [Reyan]**
+**Created by Reyan**
